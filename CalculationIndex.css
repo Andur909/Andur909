@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+input {
+	width: 244px;
+	height: 40px
+}
+button {
+	width: 60px;
+	height: 60px;
+	font-size: 20px;
+}
+
+body
+{
+	background-color: grey;
+}
+
+#calculation 
+{
+	width: 244px;
+}
+
+#btnequal
+{
+	width: 252px;
+}
+
+#btnmain
+{
+	width:120px;
+}
+
+#github
+{
+	color: black;
+	font-size: 30px;
+	font-family: cursive;
+}
